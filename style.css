@@ -49,9 +49,17 @@ p{
     text-decoration: none;
     font-size: 25px;
     color:white;
-    background-image:linear-gradient(orange , tomato );
+    
     padding: 10px 40px;
     font-weight: 50;
     border-radius: 5px;
 
 }
+.btn {
+    background-image:linear-gradient(orange , tomato );
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
