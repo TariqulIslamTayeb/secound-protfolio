@@ -1,0 +1,57 @@
+.text-style{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0%;
+    font-weight:50;
+
+}
+
+.topnav{
+    text-align: right;
+    font-size: 25px;
+    margin-top:25px;
+    margin-right: 150px;
+    word-spacing: 80px;
+   
+
+}
+.topnav a{
+    
+    text-decoration: none;
+    color: black;
+
+ 
+}
+h1{
+    font-size: 80px;
+    color: rgb(74, 74, 126) ;
+    margin-top: -50px;
+}
+p{
+    font-weight: 50 ;
+    font-size: 22px;
+}
+.orange-color{
+    color: rgb(204, 116, 58);
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    padding: 6%;
+}
+.half-width img{
+    width: 100%;
+    margin-top:-100px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    background-image:linear-gradient(orange , tomato );
+    padding: 10px 40px;
+    font-weight: 50;
+    border-radius: 5px;
+
+}
